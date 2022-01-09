@@ -1,2 +1,2 @@
 # Algorithm-Study
-code仓库
+算法学习
